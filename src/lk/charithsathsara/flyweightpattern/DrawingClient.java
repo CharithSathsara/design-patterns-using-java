@@ -47,6 +47,7 @@ public class DrawingClient extends JFrame{
 				}
 			}
 		});
+
 	}
 	
 	private ShapeType getRandomShape() {
