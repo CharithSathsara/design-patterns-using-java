@@ -1,6 +1,7 @@
 package lk.charithsathsara.adaptorpattern;
 
 public class AdapterPatternDemo {
+
 	public static void main(String[] args) {
 
 	      AudioPlayer audioPlayer = new AudioPlayer();
