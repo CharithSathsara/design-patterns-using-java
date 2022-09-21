@@ -15,6 +15,7 @@ public class DecoratorPatternTest {
 		
 		Car sportsLuxuryCar = new SportsCar(new LuxuryCar(new BasicCar()));
 		sportsLuxuryCar.assemble();
+
 	}
 
 }
